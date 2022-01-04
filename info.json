@@ -1,0 +1,12 @@
+{
+  "name": "Travelbase Update Checker",
+  "slug": "travelbase-update-checker",
+  "author": "<a href='https://travelbase.eu'>Pieter Boghaert</a>",
+  "author_profile": "https://www.pieterboghaert.be",
+  "version": "1.0.2",
+  "download_url": "https://github.com/simonvdw/travelbasewpplugin/archive/main.zip",
+  "requires": "5.0",
+  "tested": "5.0",
+  "requires_php": "7.0",
+  "last_updated": "2022-01-04 12:00:00"
+}
